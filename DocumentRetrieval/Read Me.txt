@@ -1,0 +1,9 @@
+First run the Preprocessing.py file to generate the intermediate files.
+Then run the main.py file for checking out the output of the queries of the initial implementation of IR system.
+The remaining files are the ones where the implementation of improvements are done.
+Run them individually.
+
+Required libraries
+nltk
+re
+autocorrect
